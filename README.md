@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ynnayras
+- 👋 Hi, I’m @ynnayron
 - 👀 I’m interested in coding in python🐍
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on interestings projects
